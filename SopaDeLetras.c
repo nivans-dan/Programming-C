@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <ctype.h>          //Daniel Nava Martínez y Carlos Ernesto Quintana Rivera - 103
+#include <ctype.h>          //Daniel Nava MartÃ­nez y Carlos Ernesto Quintana Rivera - 103
 #include <string.h>
 
 int main()
@@ -173,7 +173,7 @@ int main()
         }while(al<5);
         if(f==5)
         {
-            printf("\n¡...FELICIDADES, GANASTE...!\n");
+            printf("\nÂ¡...FELICIDADES, GANASTE...!\n");
         }
         else
         {
